@@ -1,7 +1,9 @@
 # Portfolio
 A detailed overview of my projects, skills, and achievements
-**👋 Hi, I'm Abdelrhman Hesham!
-💻 Machine Learning Engineer | Data Scientist | AI & Deep Learning**
+
+**👋 Hi, I'm Abdelrhman Hesham!**
+
+**💻 Machine Learning Engineer | Data Scientist | AI & Deep Learning**
 
 I am a Machine Learning Engineer and Data Scientist with a deep passion for artificial intelligence, automation, and data-driven decision-making. 
 
