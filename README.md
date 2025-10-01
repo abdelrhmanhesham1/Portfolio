@@ -103,18 +103,18 @@ As a **Backend Engineer & Instructor**, I design scalable, secure, and efficient
 
 ## 🔥 Why Work With Me?
 
-✔ I build **AI-powered applications** with strong, scalable backend systems.
-✔ I focus on **real-world applications**, delivering both intelligent models and robust infrastructures.
-✔ I ensure that **AI models are production-ready** with proper backend deployment.
-✔ I bring **teaching and mentoring experience**, helping others grow in backend engineering.
-✔ I combine **machine learning + backend engineering** to deliver **end-to-end intelligent solutions**.
+* ✔ I build **AI-powered applications** with strong, scalable backend systems.
+* ✔ I focus on **real-world applications**, delivering both intelligent models and robust infrastructures.
+* ✔ I ensure that **AI models are production-ready** with proper backend deployment.
+* ✔ I bring **teaching and mentoring experience**, helping others grow in backend engineering.
+* ✔ I combine **machine learning + backend engineering** to deliver **end-to-end intelligent solutions**.
 
 ---
 
 ## 📫 Let’s Connect!
 
-💼 [**LinkedIn**](https://www.linkedin.com/in/abdelrhman-hesham11/)
-🛠️ [**Upwork**](https://www.upwork.com/freelancers/~0180b5c8b9cf4e803b)
-📧 **Email**: [abdelrhman.hesham108@gmail.com](mailto:abdelrhman.hesham108@gmail.com)
+* 💼 [**LinkedIn**](https://www.linkedin.com/in/abdelrhman-hesham11/)
+* 🛠️ [**Upwork**](https://www.upwork.com/freelancers/~0180b5c8b9cf4e803b)
+* 📧 **Email**: [abdelrhman.hesham108@gmail.com](mailto:abdelrhman.hesham108@gmail.com)
 
 🚀 **Looking for an AI expert or Backend Engineer to build innovative solutions? Let’s collaborate!**
