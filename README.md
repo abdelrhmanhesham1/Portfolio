@@ -104,7 +104,6 @@ As a **Backend Engineer & Instructor**, I design scalable, secure, and efficient
 ## 🔥 Why Work With Me?
 
 ✔ I build **AI-powered applications** with strong, scalable backend systems.
-
 ✔ I focus on **real-world applications**, delivering both intelligent models and robust infrastructures.
 ✔ I ensure that **AI models are production-ready** with proper backend deployment.
 ✔ I bring **teaching and mentoring experience**, helping others grow in backend engineering.
